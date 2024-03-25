@@ -11,23 +11,23 @@
  
   Для установки константы необходимо выбрать (или создать, если нужного значения нет) в списке нужное значение (Абонентская плата или Работы специалиста соответственно) и нажать кнопку «Записать и закрыть». 
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image](https://github.com/KaterinaShchuk/DiplomNetologia/blob/main/Screenshots/1.2.jpg)
 
 
   ## 2.	Создать элементы справочника «Графики работы», которые в дальнейшем будут служить обозначением графика работы сотрудника. Для этого необходимо отрыть справочник «Графики работы», расположенного в подсистеме «Добавленные объекты».
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/KaterinaShchuk/DiplomNetologia/blob/main/Screenshots/2.1.jpg)
 
   В качестве начальных данных для работы программы было создано два элемента справочника с наименованиями «Пятидневный» и «Шестидневный»
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/KaterinaShchuk/DiplomNetologia/blob/main/Screenshots/2.2.jpg)
 
  
   ## 3.	Заполнить графики работы сотрудников. Для этого воспользуемся обработкой «Заполнение графика», расположенного в подсистеме «Добавленные объекты» - «Сервис».
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/KaterinaShchuk/DiplomNetologia/blob/main/Screenshots/3.1.jpg)
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/KaterinaShchuk/DiplomNetologia/blob/main/Screenshots/3.2.jpg)
 
   В поле «График работы» необходимо выбрать один из графиков, созданных в п.2 для дальнейшего автоматического заполнения рабочих и выходных дней.
 
@@ -40,7 +40,7 @@
 
   ## 4.	Заполнить справочник «Физические лица» сотрудниками организации. Справочник расположен в подсистеме «Добавленные объекты».
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/KaterinaShchuk/DiplomNetologia/blob/main/Screenshots/4.1.jpg)
  
   При нажатии кнопки «Создать» из справочника «Физические лица», открывается форма создания элемента. 
  
@@ -53,9 +53,9 @@
  
   ## 5.	Заполнить регистр "Условия оплаты сотрудников". Регистр расположен в подсистеме «Добавленные объекты».
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/KaterinaShchuk/DiplomNetologia/blob/main/Screenshots/5.1.jpg)
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/KaterinaShchuk/DiplomNetologia/blob/main/Screenshots/5.2.jpg)
 
   При нажатии кнопки «Создать», открывается форма создания записи.
 
